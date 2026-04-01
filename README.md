@@ -9,10 +9,10 @@ Step 1: Download the folder containing all files of this repository
 Step 2: Open a new terminal tab, resize it so it is large enough, and cd to the folder
 
 Step 3: Run main.py from the termianl
-"""
+'''
 python3 main.py
-"""
+'''
 or
-"""
+'''
 python main.py
-"""
+'''
