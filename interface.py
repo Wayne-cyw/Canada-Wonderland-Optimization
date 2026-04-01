@@ -98,6 +98,20 @@ def select_rides(options: list) -> list:
     title = 'Please choose the rides you want to visit (press SPACE to mark, ENTER to continue): '
     selected = pick(options, title, indicator='>', multiselect=True, min_selection_count=1)
     return [selected[i][0] for i in range(len(selected))]
+
+def ask_budget() -> int:
+    """
+    Asks the user for their budget in hours and returns it as an float in minutes.
+    """
+    while True:
+        try:
+            budget = float(input("Please enter amount of time you would like to spend at wonderland (in hours): "))
+            if budget < 0.0:
+                print("Budget cannot be negative. Please try again.")
+                continue
+            return budget * 60  # convert hours to minutes
+        except ValueError:
+            print("Invalid input. Please enter a valid number for the budget.")
         
     
 if __name__ == "__main__":
