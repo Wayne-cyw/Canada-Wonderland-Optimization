@@ -1,6 +1,6 @@
 ## Optimization Program for Canada Wonderland with Dynamic Wait time through A* search
 
-# Attention:
+##### Attention:
 The project should be run on terminal, and make sure to resize the terminal tab so it is big enough to show all content or it might raise an error
 
 To run the project:
@@ -13,9 +13,6 @@ Step 3: Run main.py from the termianl
 ``` 
 python3 main.py
 ``` 
-
-or
-
 ```
 python main.py
 ```
