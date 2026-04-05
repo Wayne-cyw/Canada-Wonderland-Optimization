@@ -10,14 +10,21 @@ This program helps you plan the most efficient route through Canada's Wonderland
 
 Rides are organized by park zone. All zones and rides below are supported by the program.
 
-| **Grande World Expo** | Antique Carrousel, Flight Deck, Swing of the Century |
-| **Action Zone** | Backlot Stunt Coaster, Behemoth, Psyclone, Skyhawk, Sledge Hammer, SlingShot, WindSeeker |
-| **Alpenfest** | AlpenFury, Klockwerks, Krachenwagen, Shockwave, The Fly, Thunder Run, Wonder Mountain's Guardian |
-| **Frontier Canada** | Flying Canoes, Lumberjack, Mighty Canadian Minebuster, Soaring Timbers, Timberwolf Falls, Tundra Twister, Vortex, White Water Canyon, Yukon Striker |
-| **Planet Snoopy** | Beagle Brigade Airfield, Boo Blasters on Boo Hill, Character Carousel, Ghoster Coaster, Joe Cool's Dodgem School, Lucy's Tugboat, PEANUTS 500, Sally's Love Buggies, SNOOPY vs Red Baron, SNOOPY's Revolution, SNOOPY's Racing Railway, SNOOPY's Space Race, Swan Lake, The Pumpkin Patch, Woodstock Whirlybirds |
-| **KidZville** | Blast Off!, Flying Eagles, Frequent Flyers, Jokey's Jalopies, Jumpin' Jet, KidZville Station, Maple Park Treehouse, Silver Streak, Sugar Shack, Swing Time, Taxi Jam, Treetop Adventure |
-| **Medieval Faire** | Dragon Fyre, Drop Tower, Leviathan, Riptide, Speed City Raceway, Spinovator, The Bat, Viking's Rage, Wilde Beast, Wilde Knight Mares |
-| **Splash Works** | Barracuda Blaster, Black Hole, Lakeside Lagoon Pool, Lakeside Lagoon Slides, Lazy River, Moosehorn Falls, Mountain Bay Cliffs, Muskoka Plunge, Pumphouse, Riptide Racer, Splash Station, Super Soaker, The Plunge, Typhoon, Waterways, Whirlwinds, White Water Bay |
+| **Grande World Expo** | Antique Carrousel, Flight Deck, Swing of the Century
+
+| **Action Zone** | Backlot Stunt Coaster, Behemoth, Psyclone, Skyhawk, Sledge Hammer, SlingShot, WindSeeker
+
+| **Alpenfest** | AlpenFury, Klockwerks, Krachenwagen, Shockwave, The Fly, Thunder Run, Wonder Mountain's Guardian 
+
+| **Frontier Canada** | Flying Canoes, Lumberjack, Mighty Canadian Minebuster, Soaring Timbers, Timberwolf Falls, Tundra Twister, Vortex, White Water Canyon, Yukon Striker
+
+| **Planet Snoopy** | Beagle Brigade Airfield, Boo Blasters on Boo Hill, Character Carousel, Ghoster Coaster, Joe Cool's Dodgem School, Lucy's Tugboat, PEANUTS 500, Sally's Love Buggies, SNOOPY vs Red Baron, SNOOPY's Revolution, SNOOPY's Racing Railway, SNOOPY's Space Race, Swan Lake, The Pumpkin Patch, Woodstock Whirlybirds
+
+| **KidZville** | Blast Off!, Flying Eagles, Frequent Flyers, Jokey's Jalopies, Jumpin' Jet, KidZville Station, Maple Park Treehouse, Silver Streak, Sugar Shack, Swing Time, Taxi Jam, Treetop Adventure
+
+| **Medieval Faire** | Dragon Fyre, Drop Tower, Leviathan, Riptide, Speed City Raceway, Spinovator, The Bat, Viking's Rage, Wilde Beast, Wilde Knight Mares
+
+| **Splash Works** | Barracuda Blaster, Black Hole, Lakeside Lagoon Pool, Lakeside Lagoon Slides, Lazy River, Moosehorn Falls, Mountain Bay Cliffs, Muskoka Plunge, Pumphouse, Riptide Racer, Splash Station, Super Soaker, The Plunge, Typhoon, Waterways, Whirlwinds, White Water Bay
 
 ---
 
