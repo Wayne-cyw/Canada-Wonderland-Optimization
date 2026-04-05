@@ -99,13 +99,9 @@ Press any key to exit when done.
 
 ## Limitations
 
-- **Wait times are estimated.** Queue wait times in the program are pre-set averages and do not reflect real-time conditions at the park on the day of your visit. Actual wait times may be significantly longer, especially on busy days.
-
-- **Walking times are approximate.** Travel times between rides are estimates based on typical walking pace and may vary depending on crowd levels and your actual walking speed.
-
 - **Performance with many rides selected.** The optimization algorithm runs in O(2^n × n²) time. Selecting more than approximately 20 rides may cause the program to run slowly.
 
-- **Time intervals are 30 minutes.** Arrival and departure times can only be set in 30-minute increments between 10:00 AM and 8:00 PM.
+- **Time intervals are 30 minutes.** Arrival and departure times can only be set in 30-minute increments between 10:00 AM and 8:00 PM. This is to avoid user maunal inputing time causing formatting error.
 
 - **Terminal window size.** The program requires a sufficiently large terminal window. If the window is too small, the interface may raise an error. Full-screening the terminal is recommended.
 
