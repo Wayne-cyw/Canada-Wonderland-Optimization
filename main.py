@@ -32,4 +32,4 @@ if __name__ == "__main__":
     optimal_path = search.find_optimal_path(selected_rides, budget_time)
     
     #print out the best route to take, and the total time taken for the route
-    print("Optimal Ride Path:", " -> ".join(optimal_path)) 
+    interface.display_optimal_path(optimal_path)
