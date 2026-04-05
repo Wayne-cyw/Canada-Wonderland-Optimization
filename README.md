@@ -1,11 +1,5 @@
 # Canada Wonderland Optimization Program
 
-## Overview
-
-This program helps you plan the most efficient route through Canada's Wonderland. Given the rides you want to visit and the time you have available, it calculates the optimal order to visit them — minimizing walking time and accounting for queue wait times and ride durations.
-
----
-
 ## Included Rides
 
 Rides are organized by park zone. All zones and rides below are supported by the program.
@@ -26,7 +20,6 @@ Rides are organized by park zone. All zones and rides below are supported by the
 
 | **Splash Works** | Barracuda Blaster, Black Hole, Lakeside Lagoon Pool, Lakeside Lagoon Slides, Lazy River, Moosehorn Falls, Mountain Bay Cliffs, Muskoka Plunge, Pumphouse, Riptide Racer, Splash Station, Super Soaker, The Plunge, Typhoon, Waterways, Whirlwinds, White Water Bay
 
----
 
 ## Setup
 
@@ -48,7 +41,6 @@ cd path/to/Canada Wonderland Optimization
 
 > **Important:** The program uses a full-screen terminal interface. Maximize or full-screen your terminal window before running, otherwise the display may not render correctly and an error may occur.
 
----
 
 ## How to Use
 
@@ -64,7 +56,6 @@ python3 main.py
 
 A splash screen will appear briefly, then the program will guide you through three steps.
 
----
 
 **Step 2 — Select your rides**
 
@@ -76,8 +67,6 @@ A multi-column menu will appear showing all available rides organized by zone.
 
 Select only the rides you are interested in visiting. You are not required to select rides from every zone.
 
----
-
 **Step 3 — Choose your time window**
 
 You will be asked to pick your **arrival time** and then your **departure time** from a list of 30-minute intervals (10:00 AM to 8:00 PM).
@@ -87,7 +76,6 @@ You will be asked to pick your **arrival time** and then your **departure time**
 
 The program will use the difference between these two times as your total available budget.
 
----
 
 **Step 4 — View your optimal route**
 
@@ -95,7 +83,6 @@ The program will calculate and display the optimal order to visit your selected 
 
 Press any key to exit when done.
 
----
 
 ## Limitations
 
