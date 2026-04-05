@@ -10,14 +10,21 @@ This program helps you plan the most efficient route through Canada's Wonderland
 
 Rides are organized by park zone. All zones and rides below are supported by the program.
 
-| **Grande World Expo** | Antique Carrousel, Flight Deck, Swing of the Century |
-| **Action Zone** | Backlot Stunt Coaster, Behemoth, Psyclone, Skyhawk, Sledge Hammer, SlingShot, WindSeeker |
-| **Alpenfest** | AlpenFury, Klockwerks, Krachenwagen, Shockwave, The Fly, Thunder Run, Wonder Mountain's Guardian |
-| **Frontier Canada** | Flying Canoes, Lumberjack, Mighty Canadian Minebuster, Soaring Timbers, Timberwolf Falls, Tundra Twister, Vortex, White Water Canyon, Yukon Striker |
-| **Planet Snoopy** | Beagle Brigade Airfield, Boo Blasters on Boo Hill, Character Carousel, Ghoster Coaster, Joe Cool's Dodgem School, Lucy's Tugboat, PEANUTS 500, Sally's Love Buggies, SNOOPY vs Red Baron, SNOOPY's Revolution, SNOOPY's Racing Railway, SNOOPY's Space Race, Swan Lake, The Pumpkin Patch, Woodstock Whirlybirds |
-| **KidZville** | Blast Off!, Flying Eagles, Frequent Flyers, Jokey's Jalopies, Jumpin' Jet, KidZville Station, Maple Park Treehouse, Silver Streak, Sugar Shack, Swing Time, Taxi Jam, Treetop Adventure |
-| **Medieval Faire** | Dragon Fyre, Drop Tower, Leviathan, Riptide, Speed City Raceway, Spinovator, The Bat, Viking's Rage, Wilde Beast, Wilde Knight Mares |
-| **Splash Works** | Barracuda Blaster, Black Hole, Lakeside Lagoon Pool, Lakeside Lagoon Slides, Lazy River, Moosehorn Falls, Mountain Bay Cliffs, Muskoka Plunge, Pumphouse, Riptide Racer, Splash Station, Super Soaker, The Plunge, Typhoon, Waterways, Whirlwinds, White Water Bay |
+| **Grande World Expo** | Antique Carrousel, Flight Deck, Swing of the Century
+
+| **Action Zone** | Backlot Stunt Coaster, Behemoth, Psyclone, Skyhawk, Sledge Hammer, SlingShot, WindSeeker
+
+| **Alpenfest** | AlpenFury, Klockwerks, Krachenwagen, Shockwave, The Fly, Thunder Run, Wonder Mountain's Guardian 
+
+| **Frontier Canada** | Flying Canoes, Lumberjack, Mighty Canadian Minebuster, Soaring Timbers, Timberwolf Falls, Tundra Twister, Vortex, White Water Canyon, Yukon Striker
+
+| **Planet Snoopy** | Beagle Brigade Airfield, Boo Blasters on Boo Hill, Character Carousel, Ghoster Coaster, Joe Cool's Dodgem School, Lucy's Tugboat, PEANUTS 500, Sally's Love Buggies, SNOOPY vs Red Baron, SNOOPY's Revolution, SNOOPY's Racing Railway, SNOOPY's Space Race, Swan Lake, The Pumpkin Patch, Woodstock Whirlybirds
+
+| **KidZville** | Blast Off!, Flying Eagles, Frequent Flyers, Jokey's Jalopies, Jumpin' Jet, KidZville Station, Maple Park Treehouse, Silver Streak, Sugar Shack, Swing Time, Taxi Jam, Treetop Adventure
+
+| **Medieval Faire** | Dragon Fyre, Drop Tower, Leviathan, Riptide, Speed City Raceway, Spinovator, The Bat, Viking's Rage, Wilde Beast, Wilde Knight Mares
+
+| **Splash Works** | Barracuda Blaster, Black Hole, Lakeside Lagoon Pool, Lakeside Lagoon Slides, Lazy River, Moosehorn Falls, Mountain Bay Cliffs, Muskoka Plunge, Pumphouse, Riptide Racer, Splash Station, Super Soaker, The Plunge, Typhoon, Waterways, Whirlwinds, White Water Bay
 
 ---
 
@@ -92,13 +99,9 @@ Press any key to exit when done.
 
 ## Limitations
 
-- **Wait times are estimated.** Queue wait times in the program are pre-set averages and do not reflect real-time conditions at the park on the day of your visit. Actual wait times may be significantly longer, especially on busy days.
-
-- **Walking times are approximate.** Travel times between rides are estimates based on typical walking pace and may vary depending on crowd levels and your actual walking speed.
-
 - **Performance with many rides selected.** The optimization algorithm runs in O(2^n × n²) time. Selecting more than approximately 20 rides may cause the program to run slowly.
 
-- **Time intervals are 30 minutes.** Arrival and departure times can only be set in 30-minute increments between 10:00 AM and 8:00 PM.
+- **Time intervals are 30 minutes.** Arrival and departure times can only be set in 30-minute increments between 10:00 AM and 8:00 PM. This is to avoid user maunal inputing time causing formatting error.
 
 - **Terminal window size.** The program requires a sufficiently large terminal window. If the window is too small, the interface may raise an error. Full-screening the terminal is recommended.
 
